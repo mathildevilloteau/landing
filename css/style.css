@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+ 
+ body {
+
+ 	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: lighter;
+	margin: 0px;
+	background-color: #F5F2E9;
+ }
+
+ h1, h2, h3 {
+
+ 	font-family: Open sans, sans-serif;
+	font-weight: 300;
+ }
+
+
+	
